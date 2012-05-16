@@ -1,5 +1,5 @@
 % xmonad-Gx.tex
-\begin{hcarentry}[updated]{xmonad}
+\begin{hcarentry}{xmonad}
 \label{xmonad}
 \report{Gwern Branwen}%11/11
 \status{active development}
